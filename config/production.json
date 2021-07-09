@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://sujay012:sujay012@devconnector.xwwal.mongodb.net/test",
+    "jwtSecret": "AHKdkjkuhi292qjdoiqqqKKLL",
+    "githubToken": "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"
+}
+
